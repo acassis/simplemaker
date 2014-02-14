@@ -1,7 +1,9 @@
 simplemaker
 ===========
 
-This is an evolution from TheMarker2 CNC replacing the PIC microcontroller by an Atmega
+This is my FirstCNC design!
 
-The original TheMaker2 post that motivated me to start this project is here:
-http://www.thebitbangtheory.com/2012/10/cnc-caseira-themaker2
+It is based on http://www.thingiverse.com/thing:41594
+
+This project stated as an evolution from TheMarker2 CNC replacing the PIC microcontroller by an Atmega, but eventually I decided to move to this thingiverse design because it is more robust.
+
